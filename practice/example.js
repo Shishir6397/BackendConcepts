@@ -66,3 +66,6 @@ function findActorFilms (actorId){
      */
 }
 console.log(findActorFilms())
+// To run this file run the following command
+// node practice/example.js
+
